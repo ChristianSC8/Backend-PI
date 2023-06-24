@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="076e832b-4a8f-4678-9d15-53f8db01bc70" name="Changes" comment="" />
+    <list default="true" id="076e832b-4a8f-4678-9d15-53f8db01bc70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../cliente/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cliente/src/main/java/com/spinmax/cliente/ClienteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/java/com/spinmax/cliente/ClienteApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cliente-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventario-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/inventario-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venta-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venta-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventario/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inventario/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventario/src/main/java/com/spinmax/inventario/InventarioApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inventario/src/main/java/com/spinmax/inventario/InventarioApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venta/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venta/src/main/java/com/spinmax/venta/VentaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/java/com/spinmax/venta/VentaApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +32,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/config-data"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/config-data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -30,7 +49,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687585652673</updated>
+      <workItem from="1687591982597" duration="370000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
