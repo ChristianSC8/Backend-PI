@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="076e832b-4a8f-4678-9d15-53f8db01bc70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../registry-server/src/main/java/com/spinmax/registryserver/RegistryServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../registry-server/src/main/java/com/spinmax/registryserver/RegistryServerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687585652673</updated>
       <workItem from="1687591982597" duration="880000" />
-      <workItem from="1687617116881" duration="2566000" />
+      <workItem from="1687617116881" duration="4074000" />
     </task>
     <servers />
   </component>
