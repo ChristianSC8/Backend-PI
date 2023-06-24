@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="076e832b-4a8f-4678-9d15-53f8db01bc70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../auth/src/main/java/com/spinmax/auth/entity/AuthUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
       <workItem from="1687591982597" duration="880000" />
       <workItem from="1687617116881" duration="6075000" />
       <workItem from="1687627676583" duration="596000" />
-      <workItem from="1687641931119" duration="873000" />
+      <workItem from="1687641931119" duration="1525000" />
     </task>
     <servers />
   </component>
