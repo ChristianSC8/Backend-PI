@@ -20,14 +20,14 @@ spring:
         - id: cliente-service
           uri: lb://cliente-service
           predicates:
-              - Path=/cliente/**
+            - Path=/cliente/**
           filters:
             - AuthFilter
         - id: venta-service
           uri: lb://venta-service
           predicates:
-              - Path=/venta/**
+            - Path=/venta/**
         - id: auth-service
           uri: lb://auth-service
           predicates:
-              - Path=/auth/**
+            - Path=/auth/**

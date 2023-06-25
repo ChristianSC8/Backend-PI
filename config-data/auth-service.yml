@@ -1,5 +1,5 @@
 server:
-  port: 9090
+  port: ${PORT:${SERVER_PORT:0}}
 spring:
   jpa:
     hibernate.ddl-auto: update
@@ -14,3 +14,5 @@ eureka:
   client:
     serviceUrl:
       defaultZone: ${EUREKA_URI:http://localhost:8085/eureka}
+  instance:
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
