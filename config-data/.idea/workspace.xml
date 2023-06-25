@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="076e832b-4a8f-4678-9d15-53f8db01bc70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/auth-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cliente-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cliente-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-server.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventario-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/inventario-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venta-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venta-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/config-data",
+    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/cliente",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +47,7 @@
       <workItem from="1687627676583" duration="596000" />
       <workItem from="1687641931119" duration="3846000" />
       <workItem from="1687652660227" duration="1878000" />
-      <workItem from="1687658279173" duration="1669000" />
+      <workItem from="1687658279173" duration="2711000" />
     </task>
     <servers />
   </component>
