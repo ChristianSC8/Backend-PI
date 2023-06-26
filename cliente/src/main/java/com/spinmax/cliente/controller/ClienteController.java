@@ -43,7 +43,7 @@ public class ClienteController {
     @DeleteMapping("/{id}")
     public String deleteById(@PathVariable(required = true) Integer id) {
         clienteService.deleteById(id);
-        return "it was deleted correctly";
+        return "";
     }
 
 }
