@@ -44,6 +44,6 @@ public class CategoriaController {
     @DeleteMapping("/{id}")
     public String deleteById(@PathVariable(required = true) Integer id) {
         categoriaService.deleteById(id);
-        return "it was deleted correctly";
+        return "";
     }
 }
