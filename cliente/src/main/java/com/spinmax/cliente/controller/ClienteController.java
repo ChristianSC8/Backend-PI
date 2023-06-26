@@ -7,6 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @RestController
 @RequestMapping("/cliente")
@@ -31,7 +32,12 @@ public class ClienteController {
 
     @GetMapping("/{id}")
     public ResponseEntity<Cliente> listById(@PathVariable(required = true) Integer id) {
-        return ResponseEntity.ok().body(clienteService.listById(id).get());
+        Optional<Cliente> cliente = clienteService.listById(id);
+        if (cliente.isPresent()) {
+            return ResponseEntity.ok(cliente.get());
+        } else {
+            return ResponseEntity.notFound().build();
+        }
     }
 
     @DeleteMapping("/{id}")

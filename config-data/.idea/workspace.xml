@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="076e832b-4a8f-4678-9d15-53f8db01bc70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/src/main/java/com/spinmax/configserver/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/main/java/com/spinmax/configserver/ConfigServerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,8 @@
       <workItem from="1687662441157" duration="3288000" />
       <workItem from="1687667515344" duration="1025000" />
       <workItem from="1687712667877" duration="373000" />
-      <workItem from="1687713268549" duration="876000" />
+      <workItem from="1687713268549" duration="1615000" />
+      <workItem from="1687735257649" duration="45000" />
     </task>
     <servers />
   </component>
