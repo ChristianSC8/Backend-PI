@@ -7,6 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @RestController
 @RequestMapping("producto")
@@ -31,7 +32,12 @@ public class ProductoController {
 
     @GetMapping("/{id}")
     public ResponseEntity<Producto> listById(@PathVariable(required = true) Integer id) {
-        return ResponseEntity.ok().body(productoService.listById(id).get());
+        Optional<Producto> cliente = productoService.listById(id);
+        if (cliente.isPresent()) {
+            return ResponseEntity.ok(cliente.get());
+        } else {
+            return ResponseEntity.notFound().build();
+        }
     }
 
     @DeleteMapping("/{id}")
