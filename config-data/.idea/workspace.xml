@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="076e832b-4a8f-4678-9d15-53f8db01bc70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../inventario/src/main/java/com/spinmax/inventario/controller/CategoriaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inventario/src/main/java/com/spinmax/inventario/controller/CategoriaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/config-data",
+    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/config-server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,7 +53,8 @@
       <workItem from="1687713268549" duration="1615000" />
       <workItem from="1687735257649" duration="45000" />
       <workItem from="1688078343596" duration="706000" />
-      <workItem from="1688085356512" duration="1076000" />
+      <workItem from="1688085356512" duration="1679000" />
+      <workItem from="1688153766047" duration="1213000" />
     </task>
     <servers />
   </component>

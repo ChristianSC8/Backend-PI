@@ -43,6 +43,6 @@ public class ProductoController {
     @DeleteMapping("/{id}")
     public String deleteById(@PathVariable(required = true) Integer id) {
         productoService.deleteById(id);
-        return "it was deleted correctly";
+        return "";
     }
 }
