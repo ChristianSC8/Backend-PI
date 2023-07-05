@@ -25,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/config-server",
+    "last_opened_file_path": "E:/Backend-OFC/Backend-PI/gateway-server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,7 +54,8 @@
       <workItem from="1687735257649" duration="45000" />
       <workItem from="1688078343596" duration="706000" />
       <workItem from="1688085356512" duration="1679000" />
-      <workItem from="1688153766047" duration="1213000" />
+      <workItem from="1688153766047" duration="1214000" />
+      <workItem from="1688420800425" duration="666000" />
     </task>
     <servers />
   </component>
